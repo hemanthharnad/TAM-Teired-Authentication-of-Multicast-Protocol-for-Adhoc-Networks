@@ -1,0 +1,23 @@
+1.Run centralauthority.java.
+2.Don't press the button "click" in it.
+3.Then run homepage.java.
+4.Press the enter button in it.
+5.Select a ".txt" file by using the browse button.
+6.And press the createMac button,then the MAC is generated.
+7.Press the MACAppend button,then the MAC and the MACkey is appended to the file you selected.
+8.Then press the next button.
+9.Enter the 16 byte key and then press the cipher button.
+10.Then enter the IP of the receivers and press the save button.
+11.Click the send button,it will send the file to the centralauthority.
+12.Now press the click button,it will display the IP of the receivers.
+13.Press the send button of the receiver1 and then run the receiver1.java in vmware.
+14.Then the file is sent to the receiver1.
+15.Select the file.txt in the C drive using the browse button.
+16.Enter the same 16 byte key used by the sender, and press cipher button.
+17.Click the find button ,it will give the MAC in the file.
+18.Then click the another find button, it will display the MAC key in the file.
+19.Press the Integrity checking button, it will display the integrity status of the file.
+20.Go to centralauthority and press the send button of the receiver2 and the run the receiver2.java in vmware.
+21.Then follow the procedures are same as receiver1.
+22.After checking the status of the integrity of the file in receiver2, go to central authority an press exit button.
+
